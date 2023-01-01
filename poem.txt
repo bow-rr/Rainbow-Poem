@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn and the Pony and extra colour
+The Rainbow and the Unicorn and the Pony and extra colour and add an image
 
 Purple
 Pink
@@ -13,3 +13,4 @@ These are the colours of the rainbow.
 And the unicorn.
 Pony
 Extra colour of Aqua
+(It's impossible to add image here.)
